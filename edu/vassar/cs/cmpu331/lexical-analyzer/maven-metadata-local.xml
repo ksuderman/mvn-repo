@@ -3,9 +3,11 @@
   <groupId>edu.vassar.cs.cmpu331</groupId>
   <artifactId>lexical-analyzer</artifactId>
   <versioning>
+    <release>1.0.0</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20160228194230</lastUpdated>
+    <lastUpdated>20160228201829</lastUpdated>
   </versioning>
 </metadata>
